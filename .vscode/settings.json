@@ -71,5 +71,6 @@
     "debug.useNodeFetcher": true,
     "debug.useNodeFetchFetcher": false
   },
-  "github.copilot.nextEditSuggestions.enabled": true
+  "github.copilot.nextEditSuggestions.enabled": true,
+  "azureTerraform.checkTerraformCmd": false
 }
